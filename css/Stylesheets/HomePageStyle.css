@@ -1,0 +1,321 @@
+@font-face {
+    font-family: "FS Albert Web 100";
+    src: "css/fsaw-thin-9ac835b80cf408f13ac170090362ed34.eot";
+    src: "css/fsaw-thin-9ac835b80cf408f13ac170090362ed34.eot" format("embedded-opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Light-93d870d78827a51cc1b24d72b207ae1b.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Regular-87c0f7e626462bf72720ead3298582ee.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Medium-812d4e00b19cec6b14295aa77b8a36a7.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro 300";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Light-0dadb3398bcdd6fdad041afa621d43d9.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Light.eot?#iefix) format("embedded-opentype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro 400";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Regular-6aea9ddf90b14c5351fc9923f897ae28.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Regular.eot?#iefix) format("embedded-opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next LT Pro 500";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Medium-587062c3953569f70c16306f59015c78.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/DINNextLTPro-Medium.eot?#iefix) format("embedded-opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-thin-e5dead700662e2640fd7610bed77232a.woff) format("woff");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light-8be208afd6f855fc8c9507c7792700ed.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light_italic-35cfcb8d9d0d3250b65df70a25e72bf6.woff) format("woff");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-regular-aa6f16548d517f7426de2ffc5414c6b4.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-bold-20bcee4fb18c8dad85e4d82091b215af.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-extrabold-597b11cee872efb95c1f22393c3724ca.woff) format("woff");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web 100";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-thin-9ac835b80cf408f13ac170090362ed34.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-thin.eot?#iefix) format("embedded-opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web 300";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light-78bd9516e324fe9ed0c39bc7720f241a.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light.eot?#iefix) format("embedded-opentype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web 300";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light_italic-93f329c2d3019a3bb08f3f2b6097a153.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-light_italic.eot?#iefix) format("embedded-opentype");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FS Albert Web 400";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-regular-890a4f6464a6605b28f279c321be9d43.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-regular.eot?#iefix) format("embedded-opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web 700";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-bold-71d08d08545686cc9f7a1b034de54eb6.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-bold.eot?#iefix) format("embedded-opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FS Albert Web 800";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-extrabold-dd81ab501c8f94ceeb1bbce0885e4a40.eot);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/us/fsaw-extrabold.eot?#iefix) format("embedded-opentype");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DIN Next W01 Light";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/3e0b2cd7_9657_438b_b4af_e04122e8f1f7.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/3e0b2cd7_9657_438b_b4af_e04122e8f1f7.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/bc176270_17fa_4c78_a343_9fe52824e501-55b832b3db807b6ee8e38ba068f564db.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/3516f91d_ac48_42cd_acfe_1be691152cc4-a799abe9d3eb2648f1186ca320c87a78.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/d1b1e866_a411_42ba_8f75_72bf28e23694.svg#d1b1e866_a411_42ba_8f75_72bf28e23694) format("svg");
+}
+
+@font-face {
+    font-family: "DIN Next W01 Medium";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/324dee78_6585_4c13_8ca3_5817cc600d84.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/324dee78_6585_4c13_8ca3_5817cc600d84.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/4bf0ead4_e61b_4992_832b_6ff05828d99f-553ea64a66d9b8cb1d213aa6dd9ccd34.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/73713a0b_8f6a_4c4e_b8a8_7cf238e632f6-2f43b81ff0131fdbc93297d715f77c1b.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/b90b6bdf_15e2_4544_9fe0_92c79fff0ecd.svg#b90b6bdf_15e2_4544_9fe0_92c79fff0ecd) format("svg");
+}
+
+@font-face {
+    font-family: "DIN Next W01 Regular";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/da088ecc_a53c_4831_a95b_6fd81b5b338a.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/da088ecc_a53c_4831_a95b_6fd81b5b338a.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/c5a7f89e_15b6_49a9_8259_5ea665e72191-0ba091bc06bfd0b400d0f52d625800ad.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/868c94b5_ca49_46b7_b62b_297f8d861125-a3fa6c51e17bee787039702122d1e13a.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zdn/e3145f65_29b5_4f7f_8c6e_2dc135021b6a.svg#e3145f65_29b5_4f7f_8c6e_2dc135021b6a) format("svg");
+}
+
+@font-face {
+    font-family: "FrutigerNextW01-BlackCn";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/4a502773_4fae_496e_8e78_016a89bb9719.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/4a502773_4fae_496e_8e78_016a89bb9719.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/d0daed3d_8549_440a_b2ff_dede283eae8b-9b47b16d437e00a7c4d7944a1ffb38bc.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/ee983de3_9aaf_49c4_aef1_1039d9bc549e-bea9969ec5f9a441b731eed88cf2bf9d.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/afb5f3e5_4ec5_461a_9bdb_51992f1d672e.svg#afb5f3e5_4ec5_461a_9bdb_51992f1d672e) format("svg");
+}
+
+@font-face {
+    font-family: "FrutigerNextW01-HeavyCn";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/4904ecc3_8863_4be1_858d_c446f0c33578.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/4904ecc3_8863_4be1_858d_c446f0c33578.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/a573c5c9_139c_40e2_91eb_3e5bc04a320a-ea554356e16f24ea0a6aede9cf848030.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/0219c932_c8a6_47b2_a642_5fa400fda973-bfdac8a258253359ddc1067b1b341f49.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/5338c78d_52a2_44c6_a583_03f06e786ae1.svg#5338c78d_52a2_44c6_a583_03f06e786ae1) format("svg");
+}
+
+@font-face {
+    font-family: "Frutiger Next W01 Light";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/ed851bde_4b1b_45ca_9fbb_9603819932cf.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/ed851bde_4b1b_45ca_9fbb_9603819932cf.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/35288d5e_681e_4b64_a930_438d2b2551d6-964437c69cd9983f5fc38563c287ea5a.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/1a22c75e_4022_43cd_a543_70ca36eb92aa-bb7fac499fa8e1557f8189034b5895f9.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/2c937a24_6a4c_47b2_b3f3_28173e19b53d.svg#2c937a24_6a4c_47b2_b3f3_28173e19b53d) format("svg");
+}
+
+@font-face {
+    font-family: "FrutigerNextW01-LightIt";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/799e1dc9_b0bd_4a73_898c_9729f2a003c0.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/799e1dc9_b0bd_4a73_898c_9729f2a003c0.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/28b35c14_90d5_403e_a14a_cca4c52c53d1-e43060b67c2880e6ed12177c784083a3.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/f2e177d9_e871_4cc0_8b31_4983175ea674-0b11d0ec0dc8c9d9b0b827356848c8d3.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/6cad5c33_9239_46ed_b949_27cdb6cc478c.svg#6cad5c33_9239_46ed_b949_27cdb6cc478c) format("svg");
+}
+
+@font-face {
+    font-family: "FrutigerNextW01-UltraLi";
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/45bbdb72_6d9f_482e_bb7e_2a790b39ddc7.eot?#iefix);
+    src: url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/45bbdb72_6d9f_482e_bb7e_2a790b39ddc7.eot?#iefix) format("eot"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/a873313b_4963_4ac2_8d9d_f4639e57cf57-c38857fc0d05be3876f3703452f5b67b.woff) format("woff"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/0493534e_14e6_46f8_ac9f_2b671368a12f-41573a51d0aed3139c77a44cc0e64796.ttf) format("truetype"),url(//quickbooks-s4.intuitstatic.com/assets/harmony/fonts/zfr/338dbcb4_e3b3_4fdf_9ce2_328fa41ca621.svg#338dbcb4_e3b3_4fdf_9ce2_328fa41ca621) format("svg");
+}
+
+.item > img {
+    width: 100% !important;
+}
+
+.m-top-20 {
+    margin-top: 20px;
+}
+
+.m-top-40 {
+    margin-top: 40px;
+}
+
+.m-0 {
+    margin: 0px !important;
+}
+
+.m-bot-0 {
+    margin-bottom: 0px !important;
+}
+
+.Footer-blue {
+    background-color: #0075c8;
+    height: 155px;
+}
+
+.m-top-10 {
+    margin-top: 10px;
+}
+
+.m-top-0 {
+    margin-top: 0px;
+}
+
+.textWhite {
+    color: #ffffff;
+}
+
+.p-0 {
+    padding: 0px !important;
+}
+
+body {
+    font-family: "FS Albert Web 100","FS Albert Web","Calibri","Trebuchet MS",sans-serif !important;
+}
+
+.CenterTextHead {
+    margin-bottom: 20px;
+    font-size: 46px;
+    font-weight: 100;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    font-weight: 100;
+}
+
+.navbar {
+    min-height: 88px !important;
+}
+
+.nav > li > a {
+    font-size: 15px;
+}
+
+.navbar-brand {
+    height: 88px !important;
+    padding: 34px 15px 34px 150px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+    .navbar-brand > img {
+        margin-top: -12px;
+    }
+
+.navbar-right {
+    height: 88px !important;
+}
+
+@media (min-width: 768px) {
+    .navbar-nav > li > a {
+        padding-top: 34px;
+        padding-bottom: 15px;
+    }
+}
+
+.black {
+    top: 16% !important;
+    position: absolute;
+    /*background-color:black;*/
+    /*opacity:0.6;*/
+    height: 20%;
+    left: 33%;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.border-left {
+    border-left: 1px solid #dedede;
+}
+
+.green-Banner {
+    background-color: #2ca01c;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.fnt-20 {
+    font-size: 20px;
+}
+.blue {
+    color:#365ebf !important;
+}
+.fnt16 {
+    font-size:16px !important;
+}
+.green {
+    color:#2ca01c;
+}

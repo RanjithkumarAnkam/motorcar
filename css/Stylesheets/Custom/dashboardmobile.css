@@ -1,0 +1,136 @@
+﻿@media screen and (max-width: 560px) {
+    #mysubmissionstable > tbody > tr > td:nth-of-type(1):before {
+        content: "Competition Name: ";
+    }
+
+    #mysubmissionstable > tbody > tr > td:nth-of-type(2):before {
+        content: "Launch Date: ";
+    }
+
+    #mysubmissionstable > tbody > tr > td:nth-of-type(3):before {
+        content: "Responses: ";
+    }
+
+    #peoplefindertable > tbody > tr > td:nth-of-type(1):before {
+        content: "User Name: ";
+    }
+
+    #peoplefindertable > tbody > tr > td:nth-of-type(2):before {
+        content: "Privileges: ";
+    }
+
+    #formstatustable > tbody > tr > td:nth-of-type(1):before {
+        content: "Form Name: ";
+    }
+
+    #formstatustable > tbody > tr > td:nth-of-type(2):before {
+        content: "Submit Date: ";
+    }
+
+    #formstatustable > tbody > tr > td:nth-of-type(3):before {
+        content: "Form Status: ";
+    }
+
+    #formstatustable > tbody > tr > td:nth-of-type(4):before {
+        content: "Competitions: ";
+    }
+
+    #reviewstatustable > tbody > tr > td:nth-of-type(1):before {
+        content: "Competition: ";
+    }
+
+    #reviewstatustable > tbody > tr > td:nth-of-type(2):before {
+        content: "Launch Date: ";
+    }
+
+    #reviewstatustable > tbody > tr > td:nth-of-type(3):before {
+        content: "L1 Review: ";
+    }
+
+    #reviewstatustable > tbody > tr > td:nth-of-type(4):before {
+        content: "L2 Review: ";
+    }
+}
+    .top-menu-nav li {
+        float: left;
+        list-style-type: none;
+        width: 100px;
+        margin-left: 5px;
+        border-radius: 10px !important;
+        margin-bottom: 10px;
+    }
+
+    .top-menu-nav {
+        margin-left: 0;
+        overflow: hidden;
+        padding-top: 12px;
+        padding: 0;
+    }
+
+        .top-menu-nav a {
+            text-align: center;
+            display: block;
+            padding: 25px 0px 30px 0px;
+            color: #fff;
+            font-size: 14px;
+            line-height: 22px;
+            border-bottom: 4px solid #bad80a;
+            text-decoration: none;
+            background: #67809F;
+            border-radius: 10px !important;
+            box-shadow: 5px 6px 10px 0px #BDBDBD;
+        }
+
+    .tab-menu-nav-label {
+        float: left;
+        margin-top: 2px;
+        width: 100px;
+        text-align: center;
+    }
+
+    .tab-border-navy a {
+        border-bottom-color: #00398C !important;
+    }
+
+    .tab-border-blue a {
+        border-bottom-color: #00ADEF !important;
+    }
+
+    .tab-border-yellow a {
+        border-bottom-color: #fcd116 !important;
+    }
+
+    i.fa.fa-trash-o {
+        margin-top: 15px;
+    }
+
+    .btn-icon-only {
+        border-radius: 3px;
+    }
+
+    @media (max-width: 769px) {
+        .table {
+            table-layout: auto;
+        }
+    }
+
+    @media (max-width: 580px) {
+        .table {
+            table-layout: fixed;
+        }
+    }
+
+    @media (max-width: 360px) {
+        .nav.pull-right > li > .dropdown-menu, .nav > li > .dropdown-menu.pull-right {
+            right: -8px;
+            left: auto;
+        }
+
+        .page-header.navbar .top-menu .navbar-nav > li.dropdown-notification .dropdown-menu {
+            margin-right: -65px;
+        }
+
+            .page-header.navbar .top-menu .navbar-nav > li.dropdown-notification .dropdown-menu:after, .page-header.navbar .top-menu .navbar-nav > li.dropdown-notification .dropdown-menu:before {
+                margin-right: 72px;
+            }
+    }

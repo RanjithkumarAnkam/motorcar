@@ -1,0 +1,127 @@
+﻿
+@media print {
+    .amcharts-chart-div a * {
+        display: none !important;
+    }
+
+    /*#printdivQuestions {
+         display: none !important;
+    }*/
+
+    /*@media print  
+{
+    div{
+        page-break-inside: avoid;
+    }
+}*/
+}
+
+@page { size: landscape; }
+
+/*@@media (max-width: 769px) {
+        .table {
+            table-layout: auto;
+        }
+    }*/
+
+
+
+.tablehead {
+    background-color: rgb(115, 123, 130);
+    COLOR: WHITE;
+}
+
+/*.canvasjs-chart-canvas {
+        height: 200px !important;
+        width: 100% !important;
+    }*/
+
+/*.piebox {
+        border: 1px solid !important;
+    }*/
+
+.flot-overlay {
+}
+
+a.canvasjs-chart-credit {
+    display: none;
+}
+
+.amChartsLegend {
+    display: none !important;
+}
+
+.flot-text {
+    top: -7px !important;
+    left: 7px !important;
+}
+
+.flot-x-axis .flot-x1-axis .xAxis .x1Axis {
+    left: -6px !important;
+}
+/*.flot-tick-label {
+
+        left:92px !important;
+    }*/
+
+
+/*.aligntablewithpie {
+        height: 281px !important;
+        padding-top:0px !important;
+    }*/
+
+.amcharts-chart-div a {
+    display: none !important;
+}
+/*.amcharts-chart-div
+    {
+          left:-36px !important;
+
+    }*/
+/*.piechartforwidth {
+        width: 80% !important;
+        height: 80% !important;
+    }*/
+/*.printpiechart {
+        width: 500px !important;
+        height: 300px !important;
+    }*/
+.printpiechart {
+    width: 186px !important;
+    height: 302px !important;
+}
+
+.btn {
+    padding: 2px 12px !important;
+}
+
+.chartdiv > svg {
+    width: 200px !important;
+}
+
+.margin-top-15 {
+    margin-top: 15px !important;
+}
+
+.margin-top-10 {
+    margin-top: 10px !important;
+}
+
+.margin-top-5 {
+    margin-top: 5px !important;
+}
+
+.checker {
+    position: relative !important;
+    display: block !important;
+    margin-top: 10px !important;
+    /*margin-bottom: 10px !important;*/
+    float: left;
+}
+/*.baradjust {
+    margin-left: -20px !important;
+    width: 118% !important;
+}*/
+/*.chart {
+        height:200px !important;
+    }*/

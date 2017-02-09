@@ -1,0 +1,255 @@
+/***** Begin Page Loader ******/
+
+
+
+
+#page_loader{
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index:9999;
+    background:url("../images/page_loader.gif") no-repeat center center rgba(0,0,0,0.25);
+    background-color: white;
+    opacity: .9;
+}
+
+/***** End Page Loader ******/
+/***** flash messages ******/
+.flash_msg_block {
+	position: absolute;
+	top: 2%;
+	right: 5%;
+	z-index: 999;
+}
+
+/***** flash messages end ******/
+
+.breadcrumbs{	
+    color: #333;
+    font-size: 14px;
+}
+.logotext {
+	color: #4C8AC8;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+/* here you can put your own css to customize and override the theme */
+.header.navbar {
+	padding: 0px 20px 0 38.5px
+}
+
+.header-inner>a {
+	text-decoration: none;
+}
+
+.dropdown-menu-list.scroller {
+	height: 250px;
+}
+
+.header-new-main {
+	margin-top: 10px;
+	min-height: 50px;
+	background: #eee;
+	padding: 9px 20px 8px 0px;
+}
+
+.header-icon-band {
+	padding: 15px;
+	background: #ff8c00;
+	bottom: 0;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.header-icon-band>i {
+	font-weight: lighter;
+}
+
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-band {
+	color: #fff !important;
+	font-size: 25px !important;
+}
+
+.sub-header-new {
+	float: left;
+	margin-left: 60px;
+	margin-bottom: 9px;
+	margin-top: 9px;
+	font-family: wf_segoe-ui_normal, "Segoe UI", "Segoe WP", Tahoma, Arial,
+		sans-serif;
+	color: #505050;
+	font-weight: 400;
+	line-height: 1.5em;
+}
+
+.sidebarblue>a {
+	background: #4C8AC8 !important;
+	color: #ffffff !important;
+}
+
+.sidebarblue>a>i, .sidebarblue>a>span.arrow:before {
+	color: #ffffff !important;
+}
+
+li.sidebarblue.open>a {
+	background: #303030 !important;
+}
+
+.width-100 {
+	width: 100%;
+}
+
+.height-305p {
+	height: 305px;
+}
+
+.height-300p {
+	height: 300px;
+}
+
+.float-l {
+	float: left;
+}
+
+.float-r {
+	float: right;
+}
+
+.tr-grid-header {
+	background-color: #4C8AC8;
+	color: white;
+}
+
+.tr-amount {
+	background-color: #FC8C14;
+}
+
+.modal-img {
+	height: 350px;
+	width: 100%;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+.txt-right {
+	text-align: right;
+}
+
+.pagination {
+	margin-top: 0px;
+}
+
+.red {
+	color: red;
+}
+
+/******* Fa Fa icons ********/
+.fa-times {
+	color: red;
+}
+
+/******* Heights ********/
+.hgt-100p {
+	height: 100px;
+}
+
+.hgt-120p {
+	height: 120px;
+}
+
+.hgt-180p {
+	height: 180px;
+}
+
+/******* PADDING *********/
+.pad-tp-1 {
+	padding-top: 1%;
+}
+
+.pad-tp-2 {
+	padding-top: 2%;
+}
+
+.pad-tp-3 {
+	padding-top: 3%;
+}
+
+.pad-tp-4 {
+	padding-top: 4%;
+}
+
+.pad-tp-5 {
+	padding-top: 5%;
+}
+
+.pad-tp-6 {
+	padding-top: 6%;
+}
+
+.pad-tp-10 {
+	padding-top: 10%;
+}
+
+.pad-rt-2p {
+	padding-right: 2px;
+}
+
+.pad-l-0 {
+	padding-left: 0%;
+}
+
+.pad-l-1p {
+	padding-left: 1px;
+}
+
+.pad-tp-8p {
+	padding-top: 8px;
+}
+
+.pad-tp-9p {
+	padding-top: 9px;
+}
+
+.pad-l-10 {
+	padding-left: 10%;
+}
+
+.pad-l-15p {
+	padding-left: 15px;
+}
+
+.pad-tp-19p {
+	padding-top: 19px !important;
+}
+
+.pad-l-r-0p{
+	padding-left:0px;
+	padding-right:0px;
+}
+/******* fa-icons-widths ********/
+.fa-20p {
+	font-size: 20px !important;
+}
+
+/******* Margin ********/
+.mrgn-tp-15p {
+	margin-top: 15px;
+}
+
+/******* Margin ********/
+.pad-l-3p {
+	padding-left: 3px;
+}body{	background-color: rgba(245, 240, 230, 0.5);}#header_back {  	border-bottom: 1px solid #C5C5C5;	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}       margin-top: 7% !important;		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);.tls {    font-family: 'IM Fell French Canon SC', serif;    color: #000;    font-size: 52px;}#pswd_info {	    position: absolute;    padding: 15px;    background: #fefefe;    font-size: .875em;    border-radius: 5px;    box-shadow: 0 1px 3px #ccc;    border: 1px solid #ddd;    display: none;    z-index: 1;    top: 142px;    /* left: 0px; */    right: 164px; }#pswd_info::before {	content: "\25c0";	position:absolute;	top:80px;	left:-10px;	font-size:20px;	line-height:14px;	color:#ddd;	text-shadow:none;	display:block;}#pswd_info h4 {	margin:0 0 10px 0; 	padding:0;	font-weight:normal;}.invalid {	background:url('../Images/invalid.png') no-repeat 0 50%;	padding-left:22px;	line-height:24px;	color:#ec3f41;}.valid {	background:url('../Images/valid.png') no-repeat 0 50%;	padding-left:22px;	line-height:24px;	color:#3a7d34;}.no-padding{	padding:0px;}.login-box{	background-color: white;box-shadow: 0 1px 3px 0 #bfbfbf;border-radius:6px;}.login-text-header{	margin:25px 0 15px 0; font-weight:bold; text-align:left;}.mr-bt-0{	margin-bottom:0px;}.black{	color:#000;}.full-width{	width:100%;}

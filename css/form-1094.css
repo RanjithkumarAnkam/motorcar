@@ -1,0 +1,296 @@
+
+@font-face {
+	font-family: UniversalStd-NewswithCommP_1s6;
+	src: url("../fonts/form-1095c/UniversalStd-NewswithCommP_1s6.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-BdIt_1sn;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-BdIt_1sn.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-BdOu_1sp;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-BdOu_1sp.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-Blk_1sr;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-Blk_1sr.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-Roman_1sd;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-Roman_1sd.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-Bd_1sl;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-Bd_1sl.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: OCRAStd_1sb;
+	src: url("../fonts/form-1095c/OCRAStd_1sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ITCFranklinGothicStd-Demi_1sh;
+	src: url("../fonts/form-1095c/ITCFranklinGothicStd-Demi_1sh.woff")
+		format("woff");
+}
+
+@font-face {
+	font-family: HelveticaNeueLTStd-BlkCn_1sf;
+	src: url("../fonts/form-1095c/HelveticaNeueLTStd-BlkCn_1sf.woff")
+		format("woff");
+}
+
+
+/* End embedded font definitions */
+.form-number {
+	font-family: fantasy;
+	font-size: 33px;
+}
+
+.ITCFrank {
+	font-family: ITCFranklinGothicStd-Demi_1sh;
+}
+
+.Helvet-Blk_1sr {
+	font-family: HelveticaNeueLTStd-Blk_1sr;
+}
+
+.Helvet-Bd_1sl {
+	font-family: HelveticaNeueLTStd-Bd_1sl;
+}
+h5{
+	font-weight:600 !important;
+}
+.page-num {
+	font-family: HelveticaNeueLTStd-Bd_1sl;
+	font-size: 15px;
+}
+.pointer-events{
+    pointer-events: none;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+.year-first-2 {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: white;
+	font-size: 30px;
+	font-family: HelveticaNeueLTStd-Bd_1sl;
+	letter-spacing: 3px;
+}
+.sub-headings-3{
+    font-family: HelveticaNeueLTStd-Bd_1sl;
+    font-size: 13px;
+}
+input[type="checkbox"] {
+    margin: 10px 0 0;
+}
+.padding-top-10{
+	padding-top:10px;
+}
+.year-last-2 {
+	font-family: HelveticaNeueLTStd-Blk_1sr;
+	letter-spacing: -1px;
+	font-size: 30px;
+}
+
+
+
+.font-size-31 {
+	font-size: 31px;
+}
+
+.font-size-20 {
+	font-size: 20px;
+}
+.font-size-18{
+	font-size: 18px;
+}
+.border-bottom {
+	border-bottom: 2px solid black;
+}
+.font-size-23{
+	font-size:23px;
+}
+.border-single-bottom {
+	border-bottom: 1px solid black;
+}
+.border-single-left{
+	border-left: 1px solid black;
+}
+.border-single-right {
+	border-right: 1px solid black;
+}
+.text-align-just{
+	text-align:justify;
+}
+.text-align-left{
+	text-align:left;
+}
+.font-weight-600{
+	font-weight:600;
+}
+.border-right {
+	border-right: 2px solid black;
+}
+
+.border-left {
+	border-left: 2px solid black;
+}
+
+.text-align {
+	text-align: center;
+}
+
+.vertical-align-top {
+	vertical-align: sub;
+}
+
+.padding-left-0 {
+	padding-left: 0px;
+}
+
+.padding-right-0 {
+	padding-right: 0px;
+}
+
+.font-shadow {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: white;
+	font-size: 30px;
+}
+
+.padding-top-20 {
+	padding-top: 20px;
+}
+
+.padding-top-5 {
+	padding-top: 5px;
+}
+
+.color-effect {
+	background-color: black;
+	color: white;
+	    padding: 3px 0px 3px 16px;
+}
+.padding-bottom-3{
+	padding-bottom:3px;
+}
+.white-space {
+	white-space: nowrap;
+	overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.width-100 {
+	width: 100%;
+}
+
+.width-95 {
+	width: 95%;
+}
+
+.width-90 {
+	width: 90%;
+}
+
+#dotted {
+	border: 0;
+	border-bottom: 2px dotted;
+}
+
+table,td,th {
+	border: 1px solid black;
+}
+
+td {
+	padding: 10px !important;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	height: 50px;
+}
+.center-start { text-align:-webkit-center; } 
+table.inline {
+	display: inline-table;
+	vertical-align: top; /* or else as your needs */
+}
+
+.width-49 {
+	width: 49%;
+}
+
+.width-50 {
+	width: 50%;
+}
+
+.width-60 {
+	width: 60%;
+}
+
+.width-40 {
+	width: 40%;
+}
+
+.width-80 {
+	width: 80%
+}
+
+.vertical-align-sub {
+	vertical-align: sub;
+}
+
+.margin-bottom-5 {
+	margin-bottom: 5px;
+}
+
+.margin-top-5 {
+	margin-top: 5px;
+}
+
+.vertical-align-webkit {
+	vertical-align: -webkit-baseline-middle;
+}
+
+.padding-bottom-10 {
+	padding-bottom: 10px;
+}
+/*
+.content-wrapper {
+	min-height: 2850px !important;
+}*/
+
+.disable {
+	pointer-events: none;
+	opacity: 0.5;
+}
+.padding-0{
+	padding:0px !important;
+}
+@media screen and (max-width: 990px) {
+	.media-border-bottom {
+		border-bottom: 2px solid black;
+	}
+	.media-border-right {
+		border-right: 2px solid black;
+	}
+	.media-border-left {
+		border-left: 2px solid black;
+		text-align:center;
+	}
+}

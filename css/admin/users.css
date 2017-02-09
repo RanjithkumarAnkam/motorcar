@@ -1,0 +1,73 @@
+
+.form-horizontal .form-group {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.form-group {
+	margin-bottom: 0px;
+}
+.padding{
+	    padding-top: 30px;
+    padding-left: 48px;
+
+}
+.margin-0{
+	margin-bottom: 0px;
+}
+.width-10{
+	width: 10%;
+}
+.header-new-main {
+	margin-bottom: 0px;
+}
+
+.form-height {
+	height: 42px;
+}
+
+.filters
+{
+	display:none;
+}
+ #w1 thead a
+{
+color: #fff;
+}
+.pagination a
+{
+color: #3c8dbc ;
+}
+.pointer{
+	cursor:pointer;
+}
+.form-group.field-tblacastaffuserssearch-first_name
+{
+	margin-bottom:0px;
+}
+
+.user-grid{
+	float: left;
+	padding: 12px; 
+	border-top: 1px solid #ddd;"
+}
+.keyword-search{
+	display: inline-flex; 
+	white-space: nowrap;
+}
+.line-height{
+	line-height: 1.9;
+}
+.btn-submit{ 
+	margin-right:5px;
+}
+
+.float-right{
+	float: right;
+}
+.lighter{
+	font-weight: lighter;
+}
+
+
+

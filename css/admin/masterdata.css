@@ -1,0 +1,66 @@
+.pointer{
+cursor:pointer;
+}
+.marginright{
+	margin-right:5px;
+} 
+.bordertop{
+	border-top: none;
+}
+
+.img-width{
+width: 30%;
+margin-left: 30px;
+}
+
+.img-width-td{
+width: 15%;
+}
+
+.text-order{
+	text-align: center;color:red;
+}
+.footer{
+	border-top: none; margin-right: 15px;
+}
+	.header-new-main {
+	margin-bottom:0px;
+	}
+	.form-height{
+    height: 42px;
+	}
+	
+
+.table-grid{
+	float: left;padding: 12px;
+    border-top: 1px solid #ddd;
+}
+.element-section{
+	display: inline-flex;white-space: nowrap;
+}
+.marginright{
+	margin-right:5px;
+}
+.form-group.field-filter_elements
+{
+	margin-bottom:0px;
+}
+
+	.img-padding{
+	padding-left: 100px;
+    padding-top: 31px;
+	}
+	
+	.form-horizontal .form-group {
+     margin-right: 0px; 
+     margin-left: 0px; 
+}
+.form-group {
+     margin-bottom: 0px;
+}
+#tblacabrands-support_number{
+height:42px;
+}
+.imp_red{
+color:red;
+}

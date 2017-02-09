@@ -1,0 +1,37 @@
+
+.filters
+{
+	display:none !important;
+}
+ #w1 thead a
+{
+color: #fff;
+}
+.pagination a
+{
+color: #3c8dbc ;
+}
+.form-group.field-tblacaclientssearch-client_id
+{
+	margin-bottom:0px;
+}
+
+.form-height{
+    height: 42px;
+	}
+.imp_red{
+	color:red;
+	}
+
+#tblacaclients-phone{
+		height:42px;
+	}
+div.field-tblacaclients-price_paid>.help-block{
+ float:left;
+ }
+ .float-right{
+	 float:right;cursor:pointer;
+ }
+ .pointer{
+	cursor:pointer;
+}

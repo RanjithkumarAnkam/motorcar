@@ -1,0 +1,22 @@
+.add-member-label{
+font-weight:500;
+}
+.border-top-none{
+	border-top:none;	
+}
+.mar-r-5{
+	margin-right:5px;
+}
+.red {
+	color: red;
+}
+
+.center {
+	text-align: center;
+}
+.lighter{
+	font-weight: lighter;
+}
+.pointer{
+	cursor:pointer;
+}

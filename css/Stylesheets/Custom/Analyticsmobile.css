@@ -1,0 +1,258 @@
+﻿  
+@media screen and (max-width:560px) {
+    #tblsubmition > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tblsubmition > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tblsubmition > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+      #tblL1review > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tblL1review > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tblL1review > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+        #tbll2review > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tbll2review > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tbll2review > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+    #tblranking > tbody > tr > td:nth-of-type(1):before {
+        content: "Option ";
+    }
+
+    #tblranking > tbody > tr > td:nth-of-type(2):before {
+        content: "Top Response Count";
+    }
+
+    #tblranking > tbody > tr > td:nth-of-type(3):before {
+        content: "Average Rank";
+    }
+
+    #tblrating > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblrating > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblrating > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+
+    #tblrating > tbody > tr > td:nth-of-type(4):before {
+        content: "Average";
+    }
+
+    #tbldtsingleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tbldtsingleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tbldtsingleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+
+        #dtmultipleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Option";
+    }
+
+     #dtmultipleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Response";
+    }
+
+    #dtmultipleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Min";
+    }
+
+    #dtmultipleresponse > tbody > tr > td:nth-of-type(4):before {
+        content: "Max";
+    }
+         #tblnumraicsingleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblnumraicsingleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblnumraicsingleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+        #tblnumraicsingleresponse > tbody > tr > td:nth-of-type(4):before {
+        content: "Average";
+    }
+               #tblnumaricmultiple > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblnumaricmultiple > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblnumaricmultiple > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+        #tblnumaricmultiple > tbody > tr > td:nth-of-type(4):before {
+        content: "Average";
+    }
+
+        #tblprintsubmition > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tblprintsubmition > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tblprintsubmition > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+      #tblprintL1review > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tblprintL1review > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tblprintL1review > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+        #tblprintL2review > tbody > tr > td:nth-of-type(1):before {
+        content: "Parameter: ";
+    }
+
+    #tblprintL2review > tbody > tr > td:nth-of-type(2):before {
+        content: "Value: ";
+    }
+
+    #tblprintL2review > tbody > tr > td:nth-of-type(3):before {
+        content: "Percentage: ";
+    }
+      #tbprintranking > tbody > tr > td:nth-of-type(1):before {
+        content: "Option ";
+    }
+
+    #tbprintranking > tbody > tr > td:nth-of-type(2):before {
+        content: "Top Response Count";
+    }
+
+    #tbprintranking > tbody > tr > td:nth-of-type(3):before {
+        content: "Average Rank";
+    }
+      #tblprintrating > tbody > tr > td:nth-of-type(1):before {
+        content: "Min";
+    }
+
+    #tblprintrating > tbody > tr > td:nth-of-type(2):before {
+        content: "Max";
+    }
+
+    #tblprintrating > tbody > tr > td:nth-of-type(3):before {
+        content: "Average";
+    }
+
+      #tblprintdtsingleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblprintdtsingleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblprintdtsingleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+
+        #dtprintmultipleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Option";
+    }
+
+     #dtprintmultipleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Response";
+    }
+
+    #dtprintmultipleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Min";
+    }
+
+    #dtprintmultipleresponse > tbody > tr > td:nth-of-type(4):before {
+        content: "Max";
+    }
+         #tblprintnumraicsingleresponse > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblprintnumraicsingleresponse > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblprintnumraicsingleresponse > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+        #tblprintnumraicsingleresponse > tbody > tr > td:nth-of-type(4):before {
+        content: "Average";
+    }
+               #tblprintnumaricmultiple > tbody > tr > td:nth-of-type(1):before {
+        content: "Response";
+    }
+
+    #tblprintnumaricmultiple > tbody > tr > td:nth-of-type(2):before {
+        content: "Min";
+    }
+
+    #tblprintnumaricmultiple > tbody > tr > td:nth-of-type(3):before {
+        content: "Max";
+    }
+        #tblprintnumaricmultiple > tbody > tr > td:nth-of-type(4):before {
+        content: "Average";
+    }
+}
+
+
+    .pielegendtop {
+       margin-top: -48px !important;
+    }
+
+  /*@media (max-width: 769px) {
+        .table {
+            table-layout: auto;
+        }
+    }
+
+@media (min-width: 768px) {
+    .col-sm-6 {
+        width: 100%;
+    }*/
+    /*.piechartforwidth {
+        width:100%;
+        height:100%;
+    }*/
+    @media print
+ {
+    .amcharts-chart-div a * {
+        display: none !important;
+    }
+
+   }

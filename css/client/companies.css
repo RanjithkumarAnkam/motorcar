@@ -1,0 +1,92 @@
+	.header-new-main {
+	margin-bottom:0px;
+	}
+	.form-height{
+    height: 42px;
+	}
+	.marginleft{
+		margin-left: 33px;
+	}
+	.margintop{
+		margin-top: 10px;
+	}
+	
+	#w1 thead a
+{
+color: #fff;
+}
+.pagination a
+{
+color: #3c8dbc ;
+}
+.filters
+{
+	display:none !important;
+}
+ .form-group.field-tblacacompaniessearch-company_name
+ {
+	 margin-bottom:0px;
+ }
+.form-group.field-tblacacompanies-reporting_status
+{
+	margin-bottom:0px;
+}
+
+
+.lighter{
+	font-weight: lighter;
+}
+.filter-class{
+	float: left; padding: 12px; border-top: 1px solid #ddd;
+}
+.display-class{
+	display: inline-flex; white-space: nowrap;
+}
+.marginright{
+	margin-right:5px;
+}
+
+.imp-mark {
+	color: red;
+}
+
+.width-98 {
+	width: 98%;
+}
+
+.keyword{
+	display: inline-flex; white-space: nowrap;
+}
+.margin-5r{
+	margin-right:5px;
+}
+.pointer{
+	cursor: pointer;
+}
+.textaligncenter{
+	text-align: center;
+}
+.float-left{
+	float:left;
+}
+.font15{
+	font-size: 15px;
+}
+.lighter{
+	font-weight: lighter;
+}
+.similar-css{
+	float: left; padding: 12px; border-top: 1px solid #ddd;margin-top: 10px;
+}
+.lineheight{
+	line-height: 1.9;
+}
+.fsize14{
+font-size: 14px;
+}
+.bordertop{
+	border-top: none;
+}
+.form-group.field-tblacacompaniessearch-company_id {
+    margin-bottom: 0px;
+}

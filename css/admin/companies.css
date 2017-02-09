@@ -1,0 +1,49 @@
+	.header-new-main {
+	margin-bottom:0px;
+	}
+	.form-height{
+    height: 42px;
+	}
+	.marginleft{
+		margin-left: 33px;
+	}
+	.margintop{
+		margin-top: 10px;
+	}
+	
+	#w1 thead a
+{
+color: #fff;
+}
+.pagination a
+{
+color: #3c8dbc ;
+}
+.filters
+{
+	display:none !important;
+}
+ .form-group.field-tblacacompaniessearch-company_name
+ {
+	 margin-bottom:0px;
+ }
+.form-group.field-tblacacompanies-reporting_status
+{
+	margin-bottom:0px;
+}
+
+.pointer{
+	cursor:pointer;
+}
+.lighter{
+	font-weight: lighter;
+}
+.filter-class{
+	float: left; padding: 12px; border-top: 1px solid #ddd;
+}
+.display-class{
+	display: inline-flex; white-space: nowrap;
+}
+.marginright{
+	margin-right:5px;
+}

@@ -1,0 +1,51 @@
+.morris-default-style {
+	display: none;
+}
+.show-more{
+	
+	 width: 50%;margin-top: 15px;    margin-bottom: 15px;padding-left:0px;
+}
+
+
+
+.inner{
+height:100px;
+}
+
+.sky-primary-blue{
+    background: #0076BC;
+    border-radius: 12px;
+}
+.color-white{
+color:white;
+}
+.padding-top-inner{
+    padding-top: 28px !important;
+}
+
+
+.color-white-year{
+color:white;
+margin-bottom: 0 !important;
+font-size: 27px !important;
+}
+
+.color-white-year-service{
+color:white;
+margin-bottom: 0 !important;
+font-size: 27px !important;
+margin-top:0px !important;
+}
+
+.sky-medium-blue{
+ background:#05A6DF;
+    border-radius: 12px;
+}
+.sky-lite-blue{
+ background:#58C1E9;
+    border-radius: 12px;
+}
+.sky-lite-green{
+ background:#A3CF5E;
+    border-radius: 12px;
+}
